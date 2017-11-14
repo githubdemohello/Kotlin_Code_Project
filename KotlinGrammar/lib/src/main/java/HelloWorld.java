@@ -10,5 +10,7 @@ public class HelloWorld {
 
         System.out.print("githubhello");
 
+        System.out.print("myhello");
+
     }
 }
